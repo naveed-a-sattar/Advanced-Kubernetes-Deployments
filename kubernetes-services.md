@@ -1,6 +1,6 @@
 # NodePort Service in Kubernetes
 
-This README.md file provides an overview of NodePort service in Kubernetes, explaining its purpose, usage, creation process, and provides an example YAML configuration.
+This md file provides an overview of NodePort service in Kubernetes, explaining its purpose, usage, creation process, and provides an example YAML configuration.
 
 ## What does a NodePort service do?
 
